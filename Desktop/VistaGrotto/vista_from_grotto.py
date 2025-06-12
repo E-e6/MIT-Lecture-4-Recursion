@@ -1,4 +1,3 @@
-git add .
 import pygame
 import sys
 
